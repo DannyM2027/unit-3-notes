@@ -1,1 +1,9 @@
+/* OVERRIDE a bootstrap class */
+.col {
+    height: 100%;
+    overflow: hidden;
+}
 
+.text-primary {
+    color: purple;
+}
